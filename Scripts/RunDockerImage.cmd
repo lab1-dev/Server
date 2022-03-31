@@ -1,0 +1,1 @@
+docker run -it --name server -d -p 80:22000 --restart=always  server:latest
